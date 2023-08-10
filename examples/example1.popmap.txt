@@ -1,0 +1,8 @@
+Hpar.ser.per.001    parAnd
+Hpar.ser.per.002    parAnd
+Hpar.yur.per.001    parAma
+Hpar.yur.per.002    parAma
+Hele.yur.per.001    eleAma
+Hele.yur.per.002    eleAma
+Hele.bar.gui.001    eleGui
+Hele.bar.gui.002    eleGui

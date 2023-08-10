@@ -1,0 +1,4 @@
+parAnd  1
+parAma  1
+eleAma  1
+eleGui  1
