@@ -2,7 +2,10 @@
 
 ## 1. Prepare bed files
 bash ~/code/heliconius_seixas/2.elevatus_pardalinus/2.SpeciesTree/bpp-pipeline/1.bpp.prepbed.sh \
-    ~/code/heliconius_seixas/2.elevatus_pardalinus/2.SpeciesTree/bpp-pipeline/
+    ~/code/heliconius_seixas/2.elevatus_pardalinus/2.SpeciesTree/bpp-pipeline/ \
+    hmelv25 \
+    100 250 2000 \
+    100 250 2000
 
 ## 2. Prepare alignment files
 bash ~/code/heliconius_seixas/2.elevatus_pardalinus/2.SpeciesTree/bpp-pipeline/2.prepAlignments.sh \
